@@ -1,0 +1,1 @@
+rootProject.name = "my-30-second-project"
