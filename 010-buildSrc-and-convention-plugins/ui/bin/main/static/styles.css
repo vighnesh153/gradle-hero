@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 1rem 1.5rem;
+    border: 1px solid black;
+}
+
+img {
+    display: block;
+    width: 200px;
+    aspect-ratio: 1;
+}
